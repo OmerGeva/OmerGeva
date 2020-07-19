@@ -1,7 +1,7 @@
-<div style="display:flex; ">
-![Me](images/me-sleeping.png)
-![Also me](images/demo-day.jpg)
+<div style="display:inline-block; ">
+<img  style="display:inline"  width="300" height="300" src="/images/me-sleeping.png" title="Also Me" />
 
+<img style="display:inline" style="display:inline"  width="650" height="300"  src="/images/demo-day.jpg" alt="Me">
 </div>
 
 ### Hi there 👋
