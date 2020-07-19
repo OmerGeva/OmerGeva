@@ -1,5 +1,5 @@
 <div style="display:inline-block; ">
-<img style="display:inline" width="30%"  src="/images/demo-day.jpg" alt="Me">
+<img style="display:inline" width="30%"  src="/images/demo-day.jpg" title="Me">
 
 <img style="display:inline" width="70%" src="/images/me-sleeping.png" title="Also Me">
 </div>
