@@ -1,4 +1,8 @@
-<img src="/images/demo-day.jpg" alt="Me"/>
+<div style="display:inline-block; ">
+  <img style="display:inline" src="/images/demo-day.jpg" alt="Me">
+
+  <img style="display:inline" src="me-sleeping.png" title="Github Logo">
+</div>
 
 ### Hi there 👋
 
