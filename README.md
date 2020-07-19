@@ -1,7 +1,7 @@
-<div style="display:flex; ">
-  <img src="/images/demo-day.jpg" alt="Me">
+<div style="display:inline-block; ">
+<img style="display:inline" width="30%"  src="/images/demo-day.jpg" alt="Me">
 
-  <img src="/images/me-sleeping.png" title="Also Me">
+<img style="display:inline" width="70%" /images/me-sleeping.png" title="Also Me">
 </div>
 
 ### Hi there 👋
