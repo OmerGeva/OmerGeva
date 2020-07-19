@@ -1,3 +1,5 @@
+<img src="/images/demo-day.jpg" alt="Me"/>
+
 ### Hi there 👋
 
 
