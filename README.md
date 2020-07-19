@@ -1,6 +1,6 @@
 <div style="display:flex; ">
-![Me](./images/me-sleeping.png)
-![Also me](./images/demo-day.jpg)
+![Me](images/me-sleeping.png)
+![Also me](images/demo-day.jpg)
 
 </div>
 
