@@ -1,9 +1,9 @@
 <div style="display:inline-block; ">
-<img style="display:inline" width="200px" height='200px' src="https://pbs.twimg.com/profile_images/1258834027336867841/jhpubSSD_400x400.jpg">
+<img style="display:inline" width="190px" height='190px' src="https://pbs.twimg.com/profile_images/1258834027336867841/jhpubSSD_400x400.jpg">
 
-<img style="display:inline" width="350px" height="200px" src="https://scontent.ftlv4-1.fna.fbcdn.net/v/t1.0-9/79371878_1031791383837254_7836361272584044544_o.jpg?_nc_cat=103&_nc_sid=cdbe9c&_nc_ohc=xw2A6ToPvmMAX-w-fdH&_nc_ht=scontent.ftlv4-1.fna&oh=ee53efeadcbad89e584c59a5b2d0b6ba&oe=5F3B4D09" title="Github Logo">
+<img style="display:inline" width="320px" height="190px" src="https://scontent.ftlv4-1.fna.fbcdn.net/v/t1.0-9/79371878_1031791383837254_7836361272584044544_o.jpg?_nc_cat=103&_nc_sid=cdbe9c&_nc_ohc=xw2A6ToPvmMAX-w-fdH&_nc_ht=scontent.ftlv4-1.fna&oh=ee53efeadcbad89e584c59a5b2d0b6ba&oe=5F3B4D09" title="Github Logo">
 
-<img style='display:inline' width="350px" height="200px" src="https://scontent.ftlv4-1.fna.fbcdn.net/v/t1.0-9/80665729_1031792323837160_5754642627676864512_o.jpg?_nc_cat=108&_nc_sid=cdbe9c&_nc_ohc=kYrRgAoZcPcAX98fKSS&_nc_ht=scontent.ftlv4-1.fna&oh=19bef4a86609d9277a912a817daf45d9&oe=5F39D441" >
+<img style='display:inline' width="320px" height="190px" src="https://scontent.ftlv4-1.fna.fbcdn.net/v/t1.0-9/80665729_1031792323837160_5754642627676864512_o.jpg?_nc_cat=108&_nc_sid=cdbe9c&_nc_ohc=kYrRgAoZcPcAX98fKSS&_nc_ht=scontent.ftlv4-1.fna&oh=19bef4a86609d9277a912a817daf45d9&oe=5F39D441" >
 
 
 </div>
