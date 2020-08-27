@@ -1,5 +1,5 @@
 <div style="display:inline-block; ">
-<img style="display:inline" width="22%" height='220px' src="https://pbs.twimg.com/profile_images/1258834027336867841/jhpubSSD_400x400.jpg">
+<img style="display:inline" width="22%"  src="https://pbs.twimg.com/profile_images/1258834027336867841/jhpubSSD_400x400.jpg">
 
 </div>
 
