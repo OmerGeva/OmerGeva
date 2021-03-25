@@ -5,8 +5,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on several projects using ReactJS and some using the NextJS library. Also spending time using and teaching Ruby on Rails!
-- 🌱 I’m currently learning better ReactJS practices, hoping to start working with TypeScript soon!
+- 🔭 I’m currently working on several projects using ReactJS and some using NextJS. Also spending time using and teaching Ruby on Rails!
+- 🌱 I’m currently learning better ReactJS practices, working with TypeScript!
 - 💻 Some projects I'm currently working on: https://semiaquatics.com https://buycoffeeworldwide.com
 - 📫 How to reach me: Check out my portfolio! @ https://omergeva.com/ 
 - 🐦 Also at -> [@gevaomer](twitter.com/gevaomer)
